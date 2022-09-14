@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/p9v7edl238m86m0w/branch/main?svg=true)](https://ci.appveyor.com/project/Tanechek/ci-api/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/p9v7edl238m86m0w?svg=true)](https://ci.appveyor.com/project/Tanechek/ci-api)
